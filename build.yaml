@@ -172,7 +172,6 @@ include:
     snippet: rgb-config studio-rpc-usb-uart
   - board: nice_nan0_v2
     shield: corne_right nice_oled
-    snippet: rgb-config
     artifact-name: nice_corne_right_oled_rgb
     ### Pro Micro END ###
   ### CORNE END ###
